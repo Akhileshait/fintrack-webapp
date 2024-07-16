@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abubakar-shaikh-dev/finance-application-management-api.git"
+    "url": "git+https://github.com/Akhileshait/fintrack-webapp"
   },
   "author": "Akhilesh Patidar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abubakar-shaikh-dev/finance-application-management-api/issues"
+    "url": "https://github.com/Akhileshait/fintrack-webapp"
   },
-  "homepage": "https://github.com/abubakar-shaikh-dev/finance-application-management-api#readme",
+  "homepage": "https://github.com/Akhileshait/fintrack-webapp",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
